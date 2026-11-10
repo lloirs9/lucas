@@ -1,0 +1,11 @@
+.clientes {
+    background-color: chocolate;
+}
+
+th,tr {
+    border: solid 1px
+}
+
+td {
+    border: dotted 1px
+}
